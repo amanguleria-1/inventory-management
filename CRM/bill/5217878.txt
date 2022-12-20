@@ -1,0 +1,21 @@
+
+        			Garwhal Marbles
+        	 Phone No. 0135-2773412 , Dehradun-248007
+        ===============================================
+        Customer Name: 2
+        Ph no :2
+        Address :2
+        Payment Type:Prepaid
+        Bill No: 5217878			Date: 05/11/2022
+        ===============================================
+        		Product	Price	QTY	Amount
+        ===============================================
+        
+		baleno	1212	02	2424.0
+        ===============================================
+        Bill Amount				Rs.2424.0
+        Delivery Charges				Rs.0
+        Net Payment				Rs.2424.0
+        ===============================================
+
+        

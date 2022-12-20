@@ -1,0 +1,21 @@
+
+        			Garwhal Marbles
+        	 Phone No. 0135-2773412 , Dehradun-248007
+        ===============================================
+        Customer Name: 
+        Ph no :
+        Address :
+        Payment Type:--Select--
+        Bill No: 17313930			Date: 17/11/2022
+        ===============================================
+        		Product	Price	QTY	Amount
+        ===============================================
+        
+        ===============================================
+        Bill Amount				Rs.101.2
+        Delivery Charges				Rs.1.0
+        Points Earned				Rs.2.5
+        Net Payment				Rs.102.2
+        ===============================================
+
+        
